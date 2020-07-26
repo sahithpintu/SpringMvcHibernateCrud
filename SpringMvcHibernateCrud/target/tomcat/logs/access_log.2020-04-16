@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [16/Apr/2020:04:24:46 +0530] "GET /SpringMvcHibernateCrud HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/Apr/2020:04:24:47 +0530] "GET /SpringMvcHibernateCrud/ HTTP/1.1" 200 57 http-bio-8080-exec-3 590
+0:0:0:0:0:0:0:1 - - [16/Apr/2020:04:25:44 +0530] "POST /SpringMvcHibernateCrud/ HTTP/1.1" 200 57 http-bio-8080-exec-6 16
+0:0:0:0:0:0:0:1 - - [16/Apr/2020:04:25:50 +0530] "POST /SpringMvcHibernateCrud/customer HTTP/1.1" 404 1013 http-bio-8080-exec-7 2
